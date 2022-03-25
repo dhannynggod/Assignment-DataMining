@@ -1,4 +1,4 @@
-# Assignment1-DataMining
+# Assignment-DataMining
 Dataset
 Dhany Septiandhika Pratama
 A11.2019.11750
